@@ -1,4 +1,4 @@
-## Data science vs Statistician
+## Data scientist vs Statistician
 
 1. What do you think being a data scientist is about?
 In my opinion, data scientist is a role which combines computer science, statistics, and mathematics to collect and organize data from many different data sources.
