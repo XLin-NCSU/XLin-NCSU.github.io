@@ -10,7 +10,7 @@
 
 - **Family**: Me + my husband + 2 kids + 1 cat
 
-<h2>Auburn Football Schedule</h2>
+<h2>Auburn Football Schedule 2023</h2>
 
 ![download](https://github.com/XLin-NCSU/XLin-NCSU.github.io/assets/142820921/2817ab04-d7ba-44e5-8e91-2deb1fd8fd42) 
 
