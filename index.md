@@ -15,7 +15,7 @@
 ![download](https://github.com/XLin-NCSU/XLin-NCSU.github.io/assets/142820921/2817ab04-d7ba-44e5-8e91-2deb1fd8fd42) 
 
 |Date|Opponent|Location|Game Result|
-|:---|:---|:---|:---|
+|:---|:---|:---|:---:|
 |Sep 2 (Sat)|UMass|Auburn, Ala.|W|
 |Sep 9 (Sat)|California|Berkeley, CA|W|
 |Sep 16 (Sat)|Samford|Auburn, Ala.|W|
