@@ -19,7 +19,7 @@
 |Sep 2 (Sat)|UMass|Auburn, Ala.|W|
 |Sep 9 (Sat)|California|Berkeley, CA|W|
 |Sep 16 (Sat)|Samford|Auburn, Ala.|W|
-|Sep 23 (Sat)|Texas A&M|College Station, TX||
+|Sep 23 (Sat)|Texas A&M|College Station, TX|L|
 |Sep 30 (Sat)|Georgia|Auburn, Ala.||
 |Oct 14 (Sat)|LSU|Baton Rouge, LA||
 |Oct 21 (Sat)|Ole Miss|Auburn, Ala.||
