@@ -5,7 +5,7 @@
 
 I pulled my clan data and all clanmates data through Clash Royale API and analyse them. 
 
-I found that in my clan, on average, "leader" group has more trophies and more donations while three "leader" clanmates have been not seen for more than 10 days.
+I found that in my clan, on average, "leader" group has more trophies, more donations and higher expLevel while three "leader" clanmates have been not seen for more than 10 days.
 
 Moreover, I found that I am one of the best players in my clan because I have more trophies with higher winning rate. :)
 
