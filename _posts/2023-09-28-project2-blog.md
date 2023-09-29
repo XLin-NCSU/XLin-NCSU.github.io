@@ -19,4 +19,6 @@ Moreover, I found that I am one of the best players in my clan because I have mo
 
 ## 3. Link of the project
 
-My project page is here: [https://xlin-ncsu.github.io/Project2/](https://xlin-ncsu.github.io/Project2/)
+My project rendered page is here: [https://xlin-ncsu.github.io/Project2/](https://xlin-ncsu.github.io/Project2/)
+
+My project resource page is here: [https://github.com/XLin-NCSU/Project2](https://github.com/XLin-NCSU/Project2)
