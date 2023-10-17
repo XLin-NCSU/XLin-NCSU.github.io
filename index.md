@@ -20,8 +20,8 @@
 |Sep 9 (Sat)|California|Berkeley, CA|W|
 |Sep 16 (Sat)|Samford|Auburn, Ala.|W|
 |Sep 23 (Sat)|Texas A&M|College Station, TX|L|
-|Sep 30 (Sat)|Georgia|Auburn, Ala.||
-|Oct 14 (Sat)|LSU|Baton Rouge, LA||
+|Sep 30 (Sat)|Georgia|Auburn, Ala.|L|
+|Oct 14 (Sat)|LSU|Baton Rouge, LA|L|
 |Oct 21 (Sat)|Ole Miss|Auburn, Ala.||
 |Oct 28 (Sat)|Mississippi State|Auburn, Ala.||
 |Nov 4 (Sat)|Vanderbilt|Nashville, TN||
