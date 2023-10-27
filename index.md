@@ -22,7 +22,7 @@
 |Sep 23 (Sat)|Texas A&M|College Station, TX|L|
 |Sep 30 (Sat)|Georgia|Auburn, Ala.|L|
 |Oct 14 (Sat)|LSU|Baton Rouge, LA|L|
-|Oct 21 (Sat)|Ole Miss|Auburn, Ala.||
+|Oct 21 (Sat)|Ole Miss|Auburn, Ala.|L|
 |Oct 28 (Sat)|Mississippi State|Auburn, Ala.||
 |Nov 4 (Sat)|Vanderbilt|Nashville, TN||
 |Nov 11 (Sat)|Arkansas|Fayetteville, AR||
