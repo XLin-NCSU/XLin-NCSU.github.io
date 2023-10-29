@@ -23,7 +23,7 @@
 |Sep 30 (Sat)|Georgia|Auburn, Ala.|L|
 |Oct 14 (Sat)|LSU|Baton Rouge, LA|L|
 |Oct 21 (Sat)|Ole Miss|Auburn, Ala.|L|
-|Oct 28 (Sat)|Mississippi State|Auburn, Ala.||
+|Oct 28 (Sat)|Mississippi State|Auburn, Ala.|W|
 |Nov 4 (Sat)|Vanderbilt|Nashville, TN||
 |Nov 11 (Sat)|Arkansas|Fayetteville, AR||
 |Nov 18 (Sat)|New Mexico State|Auburn, Ala.||
