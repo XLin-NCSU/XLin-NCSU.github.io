@@ -26,7 +26,7 @@
 |Oct 28 (Sat)|Mississippi State|Auburn, Ala.|W|
 |Nov 4 (Sat)|Vanderbilt|Nashville, TN|W|
 |Nov 11 (Sat)|Arkansas|Fayetteville, AR|W|
-|Nov 18 (Sat)|New Mexico State|Auburn, Ala.||
-|Nov 25 (Sat)|Alabama|Auburn, Ala.||
+|Nov 18 (Sat)|New Mexico State|Auburn, Ala.|L|
+|Nov 25 (Sat)|Alabama|Auburn, Ala.|L|
 
 Click [HERE](https://auburntigers.com/sports/football/schedule/2023) for more info
